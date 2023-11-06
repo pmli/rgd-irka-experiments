@@ -4,7 +4,7 @@ This repository contains code for numerical experiments reported in
 
 > P. Mlinarić, C. Beattie, Z. Drmač, S. Gugercin,
 > **IRKA is a Riemannian Gradient Descent Method**,
-> preprint,
+> [*arXiv preprint*](https://arxiv.org/abs/2311.02031),
 > 2023
 
 ## Installation
